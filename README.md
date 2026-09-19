@@ -90,6 +90,13 @@ Quando uma nova versão estiver disponível, o usuário poderá realizar a atual
 - Melhorias no atualizador de minimapa
 - Correções e melhorias gerais
 
+### v1.0.1
+- Correções e melhorias
+- Renomeação oficial do projeto para TibTools Cansado.
+- Padronização do sistema de atualização automática.
+- Correções internas no updater.
+- Melhorias de estabilidade.
+
 ### v1.0.0
 
 - Primeira versão pública
